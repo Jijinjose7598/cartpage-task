@@ -14,7 +14,7 @@ function App() {
   const gst = 12;
 
   useEffect(() => {
-    fetch('http://localhost:5173/products.json')
+    fetch('https://ecommerce-cartpage.netlify.app/products.json')
       .then(response => {
         if (!response.ok) {
           throw new Error('Network response was not ok');
