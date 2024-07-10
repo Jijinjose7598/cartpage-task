@@ -1,0 +1,124 @@
+{
+    "products":[
+  {
+    "id": 1,
+    "title": "Apple iPhone 15 Pro Max (Blue Titanium)  ",
+    "price": 494.68,
+    "description": "The Apple iPhone 15 Pro Max (256 GB) in Blue Titanium features a 6.7-inch Super Retina XDR display and A17 Bionic chip for top-tier performance. Its advanced camera system and sleek design make it perfect for capturing and storing stunning photos and videos.",
+    "category": "electronics",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708678757/Croma%20Assets/Communication/Mobiles/Images/300824_0_opb0vg.png?tr=w-480",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "OPPO F27 Pro+ 5G (Midnight Navy) ",
+    "price": 359.32,
+    "description": "The device features a 6.7-inch AMOLED display, 8GB RAM, 256GB storage, and a MediaTek Dimensity 7050 processor. It also boasts a 64 MP dual rear camera, 5000 mAh battery with 67W fast charging, and an IP69 waterproof Cosmos Ring design.",
+    "category": "electronics",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1718286718/Croma%20Assets/Communication/Mobiles/Images/307394_0_awzucu.png?tr=w-480",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 3,
+    "title": "Apple iPhone 15 (128GB, Black)",
+    "price": 853.87,
+    "description": "Display: 6.1 inches (15.54 cm), Super Retina XDR Display,Memory: 128GB ROM,Processor: Apple A16 Bionic Chip, Hexa Core,Camera: 48 MP + 12 MP Dual Rear & 12 MP Front Camera,Battery: 15W MagSafe Wireless Charging,USP: Dynamic Island, IP68 Water Resistan.",
+    "category": "electronics",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708673189/Croma%20Assets/Communication/Mobiles/Images/300652_0_ncocr2.png?tr=w-480",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  },
+  {
+    "id": 4,
+    "title": "Apple iPhone 14 Pro Max (512GB, Gold)",
+    "price": 1808.15,
+    "description": "The iPhone 14 Pro Max: A flagship smartphone offering advanced camera capabilities, powerful performance, and a stunning design with a large display.",
+    "category": "electronics",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1662655152/Croma%20Assets/Communication/Mobiles/Images/261986_auuhxk.png?tr=w-480",
+    "rating": {
+      "rate": 4.5,
+      "count": 430
+    }
+  },
+  {
+    "id": 5,
+    "title": "Apple iPhone 13 (128GB, Pink)",
+    "price": 623.90,
+    "description": "The Apple iPhone 13 (128GB, Pink): A sleek and powerful smartphone featuring a vibrant display and impressive camera system, ideal for capturing and enjoying moments in style.",
+    "category": "electronics",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708670932/Croma%20Assets/Communication/Mobiles/Images/243461_0_a9xdyl.png?tr=w-480",
+    "rating": {
+      "rate": 4.1,
+      "count": 400
+    }
+  },
+  {
+    "id": 6,
+    "title": "SAMSUNG Galaxy S24 Ultra 5G ( Titanium Violet) ",
+    "price": 1676.50,
+    "description":" A cutting-edge smartphone with a powerful camera array, expansive storage, and robust performance capabilities, designed for seamless multitasking and high-quality media experiences.",
+    "category": "electronics",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1705640892/Croma%20Assets/Communication/Mobiles/Images/303817_cc5lmd.png?tr=w-480",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    }
+  },
+  {
+    "id": 7,
+    "title": "SAMSUNG Galaxy S24 Plus 5G",
+    "price": 1197.50,
+    "description": "The SAMSUNG Galaxy S24 Plus 5G (12GB RAM, 256GB,Cobalt Violet): A premium smartphone blending sleek design with powerful performance, featuring versatile camera options and ample storage for seamless daily use and multimedia enjoyment.",
+    "category": "electronics",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1705584798/Croma%20Assets/Communication/Mobiles/Images/303862_albfdi.png?tr=w-480",
+    "rating": {
+      "rate": 4,
+      "count": 400
+    }
+  },
+  {
+    "id": 8,
+    "title": "Nothing Phone 2a 5G (8GB RAM, 128GB, White)",
+    "price":287.40,
+    "description": "The Nothing Phone 2a 5G (8GB RAM, 128GB, White): A minimalist yet high-performance smartphone offering clean design aesthetics, solid specifications, and 5G connectivity for modern digital experiences in a compact package.",
+    "category": "electronics",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1710251223/Croma%20Assets/Communication/Mobiles/Images/305350_0_e6efve.png?tr=w-480",
+    "rating": {
+      "rate": 4.5,
+      "count": 100
+    }
+  },
+  {
+    "id": 9,
+    "title": "Nothing Phone 2 5G (12GB RAM, 256GB, Dark Grey) ",
+    "price": 467.02,
+    "description": "The Nothing Phone 2 5G (12GB RAM, 256GB, Dark Grey): A sleek and powerful smartphone embodying minimalist design philosophy, with robust performance, ample storage, and 5G connectivity for a seamless digital experience.",
+    "category": "electronics",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708679074/Croma%20Assets/Communication/Mobiles/Images/301918_0_f3f5jq.png?tr=w-480",
+    "rating": {
+      "rate": 4.6,
+      "count": 203
+    }
+  },
+  {
+    "id": 10,
+    "title": "OnePlus Nord CE4 5G (8GB RAM, 256GB, Marble)",
+    "price": 323.32,
+    "description": "The OnePlus Nord CE 4 5G (8GB RAM, 256GB, Marble): A stylish and feature-rich smartphone offering smooth performance, generous storage, and 5G capability, ideal for those seeking a blend of affordability and performance in a sleek package.",
+    "category": "electronics",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1711971138/Croma%20Assets/Communication/Mobiles/Images/305872_0_vnc952.png?tr=w-480",
+    "rating": {
+      "rate": 4,
+      "count": 470
+    }
+  }
+            ]
+        }
